@@ -136,7 +136,7 @@ document.oncontextmenu=new Function("alert(message);return false")
             <div class="navigationbar  navbar-fixed-top">
                 <div class="container">
                     <a href="#can">
-                    <img src="images/a.png" alt="logo" /></a>
+                    <img src="images/a.png" alt="logoo" /></a>
                     
                     <i class="fa fa-bars pull-right" id="iconhideshow"></i>
                     <ul class="nav hide nav-pills pull-right">
